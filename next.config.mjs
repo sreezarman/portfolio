@@ -1,9 +1,14 @@
-const repo = 'portfolio'; // Your repo name
+const repo = 'portfolio'; // your GitHub repo name
 
-export default {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   output: 'export',
-  images: { unoptimized: true },
+  images: {
+    unoptimized: true
+  },
   basePath: `/${repo}`,
   assetPrefix: `/${repo}/`,
   trailingSlash: true
 };
+
+export default nextConfig;
