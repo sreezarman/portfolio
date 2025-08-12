@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "title": "Arman Ali | Growth Marketer",
+    "description": "Portfolio website showcasing product design work and skills"
+  },
+  "personal": {
+    "name": "Arman Ali",
+    "title": "Growth Marketer",
+    "location": "Dhaka, Bangladesh",
+    "avatar": "/confident-professional.png",
+    "workingHours": "Monday - Friday, 7am - 5pm EST",
+    "availableForWork": true,
+    "badges": ["Digital Marketing Manager", "Growth Marketer", "Media Buyer", "AI Automation and Analytics"],
+    "social": [
+      {
+        "platform": "Upwork",
+        "url": "https://www.upwork.com/freelancers/~01d7b6cf6fdaa5513d",
+        "icon": "ExternalLink"
+      }
+    ]
+  },
+  "about": {
+    "bio": "Growth marketer with 9+ years driving results for eCommerce, SaaS, and lifestyle brands. Expert in performance marketing, automation, and analytics using GA4, Klaviyo, Shopify, and more. Proven success with 10x revenue growth, 2000%+ traffic boosts, and churn reduction. Skilled in media buying, CRO, SEO, and team leadership. Open to remote roles focused on scalable, data-driven growth.",
+    "focus": [
+      "Driving data-informed growth through full-funnel marketing strategies",
+      "Building scalable automation systems to optimize acquisition and retention",
+      "Translating analytics into actionable insights for performance and ROI"
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "proficiency": "Billingual",
+        "level": 100,
+        "flag": "🇺🇸"
+      },
+      {
+        "name": "Bengali",
+        "proficiency": "Native",
+        "level": 100,
+        "flag": "BD"
+      }
+    ],
+    "interests": [
+      "Growth Marketing",
+      "Marketing Analytics",
+      "Performance Advertising",
+      "eCommerce Strategy",
+      "MarTech Automation",
+      "Conversion Optimization",
+      "Attribution & Tracking",
+      "SEO & Content Strategy",
+      "Customer Retention",
+      "Data Visualization"
+    ]
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Experience",
+      "href": "#experience"
+    },
+    {
+      "label": "Credentials",
+      "href": "#credentials"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills"
+    },
+    {
+      "label": "Projects",
+      "href": "#projects"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Growth Marketer, Remote",
+      "company": "Strativ.",
+      "period": "Sep 2022 - March 2025",
+      "description": "Drove digital growth by launching a hyper-local wellness blog and executing SEO-first content strategies. Led marketing efforts across multiple channels to scale organic visibility and retention for client projects.",
+      "achievements": [
+        "Launched a community-driven wellness blog to fill local content gaps",
+        "Increased organic website traffic by 2000% using SEO, SEM, and content marketing",
+        "Reduced churn by 6% and improved customer lifetime value by 12% through marketing automation",
+        "Developed a content strategy featuring fitness studios, wellness events, and local expert interviews."
+      ],
+      "technologies": [
+        "WordPress",
+        "SEO",
+        "HubSpot",
+        "Google Ads",
+        "Meta Ads",
+        "Zapier",
+        "SEMrush",
+        "User Research",
+        "Looker Studio",
+        "Tableau"
+      ],
+      "clients": [
+        {
+          "name": "Breathe Media",
+          "url": "https://breathemedianetwork.com"
+        },
+        {
+          "name": "BurgerFi",
+          "url": "https://burgerfi.com"
+        },
+        {
+          "name": "Feed Your Soul",
+          "url": "https://www.feedyoursoul.com"
+        },
+        {
+          "name": "Half Moon",
+          "url": "https://www.halfmoonempanadas.com"
+        },
+        {
+          "name": "Breathe Miami",
+          "url": "https://www.breathemiami.us"
+        }
+      ]
+    },
+    {
+      "title": "Growth Marketer, Remote",
+      "company": "Legacy Marketing",
+      "period": "Oct 2021 - 2022",
+      "description": "Led data-driven growth initiatives with a focus on event impact analysis, omnichannel funnel execution, and SEO blogging to scale traffic and visibility.",
+      "achievements": [
+        "Built a comprehensive marketing dashboard to measure event-driven performance and ROI",
+        "Integrated online and offline brand funnels, achieving 50% quarterly traffic growth",
+        "Drove a 10x year-over-year increase in organic traffic through strategic blogging"
+      ],
+      "technologies": [
+        "Google Data Studio",
+        "Google Analytics",
+        "SEO",
+        "WordPress",
+        "Facebook Ads",
+        "Email Marketing",
+        "Klaviyo"
+      ],
+      "clients": [
+        {
+          "name": "Knauf",
+          "url": "https://www.knaufinsulation.com"
+        },
+        {
+          "name": "Francis Energy",
+          "url": "https://francisenergy.com/"
+        },
+        {
+          "name": "Mingle Mocktails",
+          "url": "https://minglemocktails.com"
+        },
+        {
+          "name": "TravelBuddy",
+          "url": "https://travelbuddy.io"
+        }
+      ]
+    },
+    {
+      "title": "Digital Marketing Manager",
+      "company": "EchoLogyx",
+      "period": "2017 - 2021",
+      "description": "Directed cross-functional teams of developers and marketers to build and scale eCommerce operations, with a focus on platform migration, SEO integrity, and performance optimization.",
+      "achievements": [
+        "Established a new eCommerce business from scratch, overseeing both tech and marketing execution",
+        "Led the successful migration of a 2,000-product site from Ruby on Rails to Shopify without SEO loss",
+        "Maintained site performance and organic rankings throughout the migration process"
+      ],
+      "technologies": [
+        "Shopify",
+        "Ruby on Rails",
+        "SEO",
+        "Google Analytics",
+        "PageSpeed Insights",
+        "Screaming Frog",
+        "Ahrefs",
+        "Wireframing"
+      ],
+      "clients": [
+        {
+          "name": "EchoLogyx",
+          "url": "https://echologyx.com"
+        },
+        {
+          "name": "Ninety Percent",
+          "url": "https://ninetypercent.com"
+        }
+      ]
+    },
+    {
+      "title": "Content Marketing Executive",
+      "company": "Korea MTS Ltd",
+      "period": "Feb 2016 – 2017",
+      "description": "Led content-driven growth initiatives for a Korean plastic surgery brand, managing blog strategy, SEO, and digital engagement to drive leads and build authority.",
+      "achievements": [
+        "Spearheaded a team of writers to produce over 100 in-depth blogs in the plastic surgery niche, including procedures, before-after stories, and FAQs",
+        "Achieved 30,000+ monthly organic traffic through targeted SEO strategies, ranking on competitive surgery-related keywords",
+        "Generated hundreds of qualified leads weekly via blog-driven inbound traffic",
+        "Improved lead generation by optimizing social media and website engagement funnels",
+        "Implemented marketing automation and analytics workflows to improve conversion rates and retention"
+      ],
+      "technologies": [
+        "Content Marketing",
+        "SEO",
+        "Google Analytics",
+        "WordPress",
+        "Marketing Automation",
+        "Social Media Management",
+        "On-page SEO",
+        "Keyword Research"
+      ],
+      "clients": [
+        {
+          "name": "The Line Clinic",
+          "url": "https://thelineclinic.com"
+        },
+        {
+          "name": "JK Plastic",
+          "url": "https://jkplastic.com"
+        },
+        {
+          "name": "365MC",
+          "url": "https://www.365mc-eng.com/"
+        }
+      ]
+    }
+  ],
+  "credentials": {
+    "certifications": [
+      {
+        "name": "Google Ads Certification (Search, Display, Video, Shopping)",
+        "issuer": "Google SkillShop",
+        "date": "2021",
+        "logo": "/google-logo.png"
+      },
+      {
+        "name": "Meta (Facebook) Certified Digital Marketing Associate",
+        "issuer": "Meta",
+        "date": "2022",
+        "logo": "/meta-logo.png"
+      },
+      {
+        "name": "Growth Strategy",
+        "issuer": "CXL Institute",
+        "date": "2020",
+        "logo": "/cxl-logo.png"
+      },
+      {
+        "name": "Advanced Google Analytics",
+        "issuer": "Google SkillShop",
+        "date": "2022",
+        "logo": "/google-logo.png"
+      },
+      {
+        "name": "Kameleoon's A/B Testing Certification",
+        "issuer": "Kameleoon",
+        "date": "2020",
+        "logo": "/kameleoon-logo.png"
+      },
+      {
+        "name": "Google SEO Fundamentals",
+        "issuer": "Coursera",
+        "date": "2018",
+        "logo": "/coursera-logo.png"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree, BA Hon's in Business",
+        "institution": "Cardiff Metropolitan University, UK",
+        "year": "2013-2016",
+        "logo": "/cardiff-metropolitan-logo.png"
+      },
+      {
+        "degree": "Diploma in Accounting",
+        "institution": "ACCA",
+        "year": "2012",
+        "logo": "/acca-logo.png"
+      }
+    ],
+    "skills": [
+      "Performance Marketing",
+      "Media Buying",
+      "Attribution Modeling",
+      "Conversion Optimization",
+      "Marketing Strategy",
+      "Analytics-Driven Growth",
+      "Campaign Scaling",
+      "Tracking Infrastructure"
+    ]
+  },
+  "technicalSkills": {
+    "marketingPlatforms": [
+      "Google Ads",
+      "Meta Ads",
+      "TikTok Ads",
+      "Pinterest Ads",
+      "LinkedIn Ads",
+      "Google Analytics 4",
+      "Google Tag Manager",
+      "Klaviyo",
+      "Mailchimp",
+      "HubSpot"
+    ],
+    "analyticsTools": [
+      "Looker Studio",
+      "Tableau",
+      "Google Search Console",
+      "SEMrush",
+      "Ahrefs",
+      "Hotjar",
+      "Optimizely",
+      "Mixpanel",
+      "Amplitude",
+      "Segment"
+    ],
+    "automationTools": [
+      "Zapier",
+      "Make.com",
+      "n8n",
+      "Pipedream",
+      "Airtable Automations",
+      "Google Apps Script",
+      "ChatGPT API",
+      "Webhooks",
+      "Python (basic)",
+      "Notion AI"
+    ],
+    "marketingSkills": [
+      "Paid Media Strategy",
+      "Conversion Rate Optimization",
+      "A/B Testing",
+      "SEO",
+      "Content Marketing",
+      "Email Marketing",
+      "Marketing Attribution",
+      "Funnel Optimization",
+      "Customer Journey Mapping",
+      "Retention Marketing",
+      "Influencer Marketing",
+      "Social Media Strategy"
+    ]
+  }
+}
