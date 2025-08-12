@@ -30,18 +30,14 @@ export function StickyFooter() {
         <p className="text-sm text-zinc-300">
           Looking to grow your brand?{" "}
           <a
-            href="https://www.upwork.com/freelancers/~01d7b6cf6fdaa5513d"
-            target="_blank"
-            rel="noopener noreferrer"
+            href="mailto:sreezarman@gmail.com"
             className="font-bold text-cyan-400 underline hover:text-cyan-300 transition-colors"
           >
-            Hire on Upwork
+            sreezarman@gmail.com
           </a>
         </p>
         <a
-          href="https://www.upwork.com/freelancers/~01d7b6cf6fdaa5513d"
-          target="_blank"
-          rel="noopener noreferrer"
+          href="mailto:sreezarman@gmail.com"
           className="text-cyan-400 hover:text-cyan-300 transition-colors"
           aria-label="Contact me"
         >
