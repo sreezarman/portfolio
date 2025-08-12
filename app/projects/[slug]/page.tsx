@@ -589,8 +589,12 @@ export default function ProjectPage({ params }: ProjectPageProps) {
                 size="lg"
                 className="bg-gradient-to-r from-cyan-500 to-blue-500 hover:from-cyan-600 hover:to-blue-600 text-white"
               >
-                <a href="mailto:sreezarman@gmail.com">
-                  Get In Touch
+                <a
+                  href="https://www.upwork.com/freelancers/~01d7b6cf6fdaa5513d"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Hire on Upwork
                   <ArrowRight className="ml-2 h-4 w-4" />
                 </a>
               </Button>
