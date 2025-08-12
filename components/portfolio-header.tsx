@@ -107,7 +107,9 @@ export function PortfolioHeader() {
             size="sm"
             className="bg-gradient-to-r from-cyan-500/20 to-blue-500/20 border-cyan-500/50 hover:bg-gradient-to-r hover:from-cyan-500/30 hover:to-blue-500/30"
           >
-            <a href="mailto:sreezarman@gmail.com">Get In Touch</a>
+            <a href="https://www.upwork.com/freelancers/~01d7b6cf6fdaa5513d" target="_blank" rel="noopener noreferrer">
+              Hire on Upwork
+            </a>
           </Button>
         </div>
 
